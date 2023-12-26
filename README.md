@@ -1,1 +1,2 @@
-S4 NY:ON is a private S4 League server.
+s4ny:on repo
+
